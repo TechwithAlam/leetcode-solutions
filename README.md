@@ -4,6 +4,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Array
 |  |
 | ------- |
+| [0011-container-with-most-water](https://github.com/TechwithAlam/leetcode-solutions/tree/master/0011-container-with-most-water) |
 | [0209-minimum-size-subarray-sum](https://github.com/TechwithAlam/leetcode-solutions/tree/master/0209-minimum-size-subarray-sum) |
 | [0219-contains-duplicate-ii](https://github.com/TechwithAlam/leetcode-solutions/tree/master/0219-contains-duplicate-ii) |
 | [0457-circular-array-loop](https://github.com/TechwithAlam/leetcode-solutions/tree/master/0457-circular-array-loop) |
@@ -28,6 +29,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Two Pointers
 |  |
 | ------- |
+| [0011-container-with-most-water](https://github.com/TechwithAlam/leetcode-solutions/tree/master/0011-container-with-most-water) |
 | [0457-circular-array-loop](https://github.com/TechwithAlam/leetcode-solutions/tree/master/0457-circular-array-loop) |
 | [0567-permutation-in-string](https://github.com/TechwithAlam/leetcode-solutions/tree/master/0567-permutation-in-string) |
 ## Sliding Window
@@ -84,6 +86,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Greedy
 |  |
 | ------- |
+| [0011-container-with-most-water](https://github.com/TechwithAlam/leetcode-solutions/tree/master/0011-container-with-most-water) |
 | [1838-frequency-of-the-most-frequent-element](https://github.com/TechwithAlam/leetcode-solutions/tree/master/1838-frequency-of-the-most-frequent-element) |
 ## Sorting
 |  |
